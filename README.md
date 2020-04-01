@@ -5,10 +5,12 @@
 
 ## Chapter 1
 
-- [Getting Started](https://github.com/socd06/spacy_course/blob/master/1_getting_started.ipynb)
-- [Documents, spans and tokens](https://github.com/socd06/spacy_course/blob/master/1_docs_spans_tokens.ipynb)
-- [Lexical Attributes](https://github.com/socd06/spacy_course/blob/master/1_lexical_attributes.ipynb)
-- [Statistical Models](https://github.com/socd06/spacy_course/blob/master/1_statistical_models.ipynb)
+- [Getting started](https://github.com/socd06/spacy_course/blob/master/notebooks/1_getting_started.ipynb)
+- [Documents, spans and tokens](https://github.com/socd06/spacy_course/blob/master/notebooks/1_docs_spans_tokens.ipynb)
+- [Lexical attributes](https://github.com/socd06/spacy_course/blob/master/notebooks/1_lexical_attributes.ipynb)
+- [Statistical models](https://github.com/socd06/spacy_course/blob/master/notebooks/1_statistical_models.ipynb)
+- [Predicting linguistic annotations](https://github.com/socd06/spacy_course/blob/master/notebooks/1_predicting_linguistic_annotations.ipynb)
+
 
 # License
 [MIT License](https://github.com/socd06/spacy_course/blob/master/LICENSE)
