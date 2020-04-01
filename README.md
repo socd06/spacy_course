@@ -8,6 +8,7 @@
 - [Getting Started](https://github.com/socd06/spacy_course/blob/master/1_getting_started.ipynb)
 - [Documents, spans and tokens](https://github.com/socd06/spacy_course/blob/master/1_docs_spans_tokens.ipynb)
 - [Lexical Attributes](https://github.com/socd06/spacy_course/blob/master/1_lexical_attributes.ipynb)
+- [Statistical Models](https://github.com/socd06/spacy_course/blob/master/1_statistical_models.ipynb)
 
 # License
 [MIT License](https://github.com/socd06/spacy_course/blob/master/LICENSE)
