@@ -11,7 +11,7 @@
 - [Statistical models](https://github.com/socd06/spacy_course/blob/master/notebooks/1_statistical_models.ipynb)
 - [Predicting linguistic annotations](https://github.com/socd06/spacy_course/blob/master/notebooks/1_predicting_linguistic_annotations.ipynb)
 
-- [Predicting named entities in context](https://github.com/socd06/spacy_course/blob/master/notebooks/1_predicting_named_entities.ipynb
+- [Predicting named entities in context](https://github.com/socd06/spacy_course/blob/master/notebooks/1_predicting_named_entities.ipynb)
 
 # License
 [MIT License](https://github.com/socd06/spacy_course/blob/master/LICENSE)
