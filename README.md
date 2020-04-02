@@ -13,5 +13,7 @@
 
 - [Predicting named entities in context](https://github.com/socd06/spacy_course/blob/master/notebooks/1_predicting_named_entities.ipynb)
 
+- [Using the matcher](https://github.com/socd06/spacy_course/blob/master/notebooks/1_using_the_matcher.ipynb)
+
 # License
 [MIT License](https://github.com/socd06/spacy_course/blob/master/LICENSE)
