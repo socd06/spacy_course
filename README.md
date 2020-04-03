@@ -17,6 +17,7 @@
 
 - [Using the matcher excercise](https://github.com/socd06/spacy_course/blob/master/notebooks/1_matcher_exercise.ipynb)
 
+- [Matcher patterns](https://github.com/socd06/spacy_course/blob/master/notebooks/1_matcher_patterns.ipynb)
 
 # License
 [MIT License](https://github.com/socd06/spacy_course/blob/master/LICENSE)
