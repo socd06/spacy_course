@@ -23,5 +23,7 @@
 
 - [Creating training data](https://github.com/socd06/spacy_course/blob/master/notebooks/4_creating_training_data.ipynb)
 
+- [Pipeline setup and training](https://github.com/socd06/spacy_course/blob/master/notebooks/4_pipeline_setup_and_training)
+
 # License
 [MIT License](https://github.com/socd06/spacy_course/blob/master/LICENSE)
